@@ -13,9 +13,9 @@ function App() {
     <h1>count (value)</h1>
     <button onClick={
       () => {
-        setvalue(value+1);
+        setvalue(value+3);
       }
-    }>Add</button>
+    }>Add3</button>
     </>
    
   )
