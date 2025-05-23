@@ -16,6 +16,12 @@ function App() {
         setvalue(value+3);
       }
     }>Add3</button>
+
+    <button onClick={
+      ()=> {
+        setvalue(value+2);
+      }
+    }>Add 2</button>
     </>
    
   )
